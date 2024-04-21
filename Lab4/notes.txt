@@ -1,0 +1,3 @@
+12. Spróbuj teraz samodzielnie napisać następujący selektor:
+● Wybierz wszystkie punkty numerowanej listy, która ma przypisaną klasę a, które nie
+zawierają linków wewnątrz dowolnego elementu, który ma przypisaną klasę b.
