@@ -1,0 +1,40 @@
+1. Do czego służą poszczególne warstwy architektury MVC i jak są połączone?
+
+Model - warstwa odpowiedzialna ogólnie za zarządzanie danymi. Odpowiednio je przechowuje oraz dostarcza na żądanie kontrolera.
+
+View(Widok) - warstwa odpowiedzialna za obsługę interakcji z użytkownikiem. Generuje warstwę UI z informacjami dostarczonymi przez model do kontrolera, następnie podbiera i interpretuje dane wejściowe od użytkownika.
+
+Controller(Kontroler) - warstwa odpowiedzialna za komunikację i kontrolę dwóch pozostałych warst oraz wymianę danych pomiędzy nimi. Analizuje on dane dostarczane przez widok, odpowiednio manipuluje modelem i decuduje jakie widoki i dane przekazać w odpowiedzi.
+
+2. Jakie są konwencję nazewnictwa dla: (i) modeli, (ii) kontrolerów, (iii) akcji kontrolera, (iv)
+widoków, (v) folderów widoków?
+
+Model - Nazywany w liczbie pojedyńczej np. 'Game'
+
+Kontroler - Nazywamy w liczbie mnogiej oraz dodając przyrostek 'Controller' np. 'GamesController'
+
+Akcje kontrolera - Nazywamy w formie czasowników odnosząć się do rzeczy, które wykonują np. 'show', 'update'
+
+Widok - Nazywamy stosunkowo do akcji kontrolera, której odpowiadają np. 'index' -> 'index.cshtml'
+
+Foldery Widoków - Nazywamy w liczbie mnogiej nazwą odpowiadającej kontrolerowi/modelowi np. 'Games', 'views/Games'
+
+3. Jak dane przekazywane są z kontrolerów do widoków (podaj 2 opcje)?
+
+a. Przekazywanie danych za pomocą zmiennych/obiektów, kontrolery przekazują dane do widoków poprzez ustawianie zmiennych lub obiektów, które są następnie dostępne w widokach.
+
+b. Przekazywanie danych za pomocą obiektów ViewModel, które są specjalnie zaprojektowane do przechowywania danych potrzebnych w widoku.
+
+4. Jak mapowane są URLs na akcje kontrolerów?
+
+Mapowanie URL-i na akcje ko trolerów jest zdefiniowane w obiekcie MapControllerRoute i definiuje on domyślną trasę mapowania według wzorca.
+
+5. Jak ograniczać akcje kontrolera tak by były uruchamian tylko z użyciem wskazanych typów
+zapytań HTTP (np. ograniczenie do HTTP POST)?
+
+Akcje kontrolera można ograniczać, używając atrybutów akcji. Musi zostać on podany tuż przez jej definicją. Np. jeśli chcemy ograniczyć akcję do zapytania GET dodamy '[HttpGet]'
+
+6. Gdzie zdefiniowana jest walidacja danych i jak realizowana jest w widokach i kontolerach?
+
+W kontrolerach walidacja danych jest sprawdzana przy użyciu właściwości ModelState. Kontrolery mogą sprawdzić, czy model jest poprawny, i odpowiednio na to reagować.
+W widokach korzysta się z pomocników HTML, takich jak Html.LabelFor, Html.TextBoxFor, aby wyświetlać błędy i wspierać walidację po stronie klienta.

@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+label {
+  display: block;
+  margin: 20px 0;
+}
+
+.task {
+  text-align: left;
+  margin: 10px 0;
+}

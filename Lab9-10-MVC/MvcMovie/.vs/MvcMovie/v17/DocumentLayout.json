@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Migrations\\20240612223915_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240612223915_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|c:\\users\\rtoit\\onedrive\\pulpit\\uczelnia\\semestr 6\\podstawy_aplikacji_internetowych\\lab9-10-mvc\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1C2BD-C453-42E4-86F7-96B7835CF1D3}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240612223915_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Migrations\\20240612223915_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612223915_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Migrations\\20240612223915_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240612223915_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:39:15.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:38:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:35:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:34:44.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:30:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:28:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T22:26:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:22:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\rtoit\\OneDrive\\Pulpit\\Uczelnia\\Semestr 6\\Podstawy_aplikacji_internetowych\\Lab9-10-MVC\\MvcMovie\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:20:02.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
